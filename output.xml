@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.4 on win32)" generated="20200110 20:25:23.158" rpa="false">
+<suite id="s1" name="SVGTest" source="C:\Users\R.Charaba_PC\PycharmProjects\untitled\TestCases\SVGTest.robot">
+<test id="s1-t1" name="learnTest">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${url}</arg>
+<arg>${browser}</arg>
+</arguments>
+<msg timestamp="20200110 20:25:23.375" level="INFO">Opening browser 'chrome' to base url 'https://stephsaephan.github.io/leaflet-map-example/'.</msg>
+<status status="PASS" starttime="20200110 20:25:23.375" endtime="20200110 20:25:29.147"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20200110 20:25:29.147" endtime="20200110 20:25:30.266"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>0.5seconds</arg>
+</arguments>
+<status status="PASS" starttime="20200110 20:25:30.267" endtime="20200110 20:25:30.267"></status>
+</kw>
+<kw name="SVGTest">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>//html[1]/body[1]/div[1]/div[1]/div[4]/img[1]</arg>
+</arguments>
+<msg timestamp="20200110 20:25:30.268" level="INFO">Clicking element '//html[1]/body[1]/div[1]/div[1]/div[4]/img[1]'.</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20200110 20:25:31.792" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-1.png"&gt;&lt;img src="selenium-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20200110 20:25:30.784" endtime="20200110 20:25:31.792"></status>
+</kw>
+<msg timestamp="20200110 20:25:31.796" level="FAIL">Element with locator '//html[1]/body[1]/div[1]/div[1]/div[4]/img[1]' not found.</msg>
+<status status="FAIL" starttime="20200110 20:25:30.268" endtime="20200110 20:25:31.796"></status>
+</kw>
+<status status="FAIL" starttime="20200110 20:25:30.267" endtime="20200110 20:25:31.796"></status>
+</kw>
+<status status="FAIL" starttime="20200110 20:25:23.374" endtime="20200110 20:25:31.797" critical="yes">Element with locator '//html[1]/body[1]/div[1]/div[1]/div[4]/img[1]' not found.</status>
+</test>
+<status status="FAIL" starttime="20200110 20:25:23.160" endtime="20200110 20:25:31.799"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="SVGTest">SVGTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
