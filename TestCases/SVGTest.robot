@@ -11,7 +11,7 @@ learnTest
     open browser    ${url}  ${browser}
     maximize browser window
     set selenium speed  0.5seconds
-    #SVGTest
+    SVGTest
     SVGTest2
 
 *** keywords ***
