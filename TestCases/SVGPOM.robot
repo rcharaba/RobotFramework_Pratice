@@ -17,4 +17,7 @@ SVGTest
     Click New Trail
     Create New Trail    3   4
     Finish Trail Creation
-
+    Click Delete Objetcs
+    Delete Trail    2
+    Delete Trail    1
+    Finish Trail Delete
