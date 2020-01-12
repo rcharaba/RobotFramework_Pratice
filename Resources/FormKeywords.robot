@@ -5,7 +5,7 @@ Documentation     A resource file with reusable keywords and variables.
 ...               domain specific language. They utilize keywords provided
 ...               by the imported SeleniumLibrary.
 Library         SeleniumLibrary
-Variables       ../PageObjects/Locator
+Variables       ../PageObjects/Locators.py
 
 *** Variables ***
 ${SERVER}         www.practiceselenium.com
