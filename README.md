@@ -14,6 +14,9 @@ https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Element%20Text%2
 WEB Robot exemple:
 https://github.com/robotframework/WebDemo/#id5
 
+PyAutoGUI:
+https://pyautogui.readthedocs.io/en/latest/index.html
+
 Boas praticas:
 https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst#test-suite-names
 
