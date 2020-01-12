@@ -2,9 +2,11 @@
 Library         SeleniumLibrary
 Resource        ../Resources/SVGKeywords.robot
 
+Suite Setup  Open Browser To SVG Page
+Suite Teardown  close browser
+
 *** Test Cases ***
 SVGTest
-    Open Browser To SVG Page
     Click New Marker
     Create New Marker   880  461
     Create New Marker  1500  461
