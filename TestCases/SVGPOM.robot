@@ -7,6 +7,8 @@ Suite Teardown  close browser
 
 *** Test Cases ***
 SVGTest
+    Drag Map To Left
+    Drag Map To Right
     Click New Marker
     Create New Marker   880  461
     Create New Marker  1500  461

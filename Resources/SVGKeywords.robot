@@ -53,6 +53,14 @@ Delete Trail
 Finish Trail Delete
     click element  ${delete_Objetcts_Cancel}
 
+Drag Map To Left
+    move to  960  515
+    mouse drag  1919  515
+
+Drag Map To Right
+    move to  960  515
+    mouse drag  0  515
+
 
 
 
