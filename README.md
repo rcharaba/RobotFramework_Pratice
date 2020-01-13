@@ -33,4 +33,7 @@ GIT:
 https://www.youtube.com/watch?v=9tGb9FK6zVM
 https://github.com/rcharaba/RobotFramework_Pratice
 
+Chrome extensions:
+https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo
+https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd
 
