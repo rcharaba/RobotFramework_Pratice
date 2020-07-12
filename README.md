@@ -1,40 +1,44 @@
 # RobotFramework_Pratice
 
-Links importantes:
+These were my first steps with Robot Framework.
 
-Link do curso:
-https://youtu.be/UbYxkUq0Hec
+1) My first free youtube course:
+    https://youtu.be/UbYxkUq0Hec
+    
+2) Some exemples from robotframework repository:
+    https://github.com/robotframework/WebDemo/#id5
 
-xpath para SVG:
-https://stackoverflow.com/questions/26722421/how-do-i-test-a-click-on-svg-objects-using-selenium-webdriver
+3) Here i've separeted some links to know more about SVG / Map interations and documentation about Selenium-library:
+    Xpath for SVG:
+    https://stackoverflow.com/questions/26722421/how-do-i-test-a-click-on-svg-objects-using-selenium-webdriver
 
-Selenium/library:
-https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Element%20Text%20Should%20Be
+    Selenium library:
+    https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Element%20Text%20Should%20Be
 
-WEB Robot exemple:
-https://github.com/robotframework/WebDemo/#id5
 
-PyAutoGUI:
-https://pyautogui.readthedocs.io/en/latest/index.html
+4) My firt test caling a external python library in Robot framework: 
+   PyAutoGUI: 
+   https://pyautogui.readthedocs.io/en/latest/index.html
+   
+   Custom python files:
+   http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#id251
+   https://stackoverflow.com/questions/27039016/how-to-create-a-custom-python-code-library-for-the-robot-framework
 
-Boas praticas:
-https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst#test-suite-names
 
-Links para praticar:
-http://www.practiceselenium.com/practice-form.html
-https://leafletjs.com/examples/quick-start/example.html
-https://stephsaephan.github.io/leaflet-map-example/
+5) Best Pratices documentation:
+    https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst#test-suite-names
 
-Custom python files:
-http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#id251
-https://stackoverflow.com/questions/27039016/how-to-create-a-custom-python-code-library-for-the-robot-framework
+6) Some links to pratice:
+    http://www.practiceselenium.com/practice-form.html
+    https://leafletjs.com/examples/quick-start/example.html
+    https://stephsaephan.github.io/leaflet-map-example/
 
-GIT:
-https://www.youtube.com/watch?v=9tGb9FK6zVM
-https://github.com/rcharaba/RobotFramework_Pratice
+7) How to clone your first projet using Pycharm IDE (my IDE to code in Robot Framework)
+    https://www.youtube.com/watch?v=9tGb9FK6zVM
 
-Chrome extensions:
-https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo
-https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd
-https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
+
+8) Chrome extensions to speed up your coding in Robot Framwork:
+    https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo
+    https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd
+    https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 
